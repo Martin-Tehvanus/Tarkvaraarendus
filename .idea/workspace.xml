@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Lisaülesanne 1 parem versioon">
-      <change afterPath="$PROJECT_DIR$/ylesanne3.py" afterDir="false" />
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 3">
+      <change afterPath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/Kujundid_suvalises_kohas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/Mangu_joonistamine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/img/youwin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +47,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Kujundid_suvalises_kohas.executor": "Run",
+    "Python.Mangu_joonistamine.executor": "Run",
     "Python.ylesanne1.executor": "Run",
     "Python.ylesanne1_lisaylesanne.executor": "Run",
     "Python.ylesanne2.executor": "Run",
@@ -53,7 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Martin/Downloads"
+    "last_opened_file_path": "C:/Users/Martin/Downloads",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,6 +67,8 @@
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Tsyklid_ja_funktsioonid\img" />
+      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Tsyklid_ja_funktsioonid" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\yl2" />
     </key>
   </component>
@@ -153,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740063157920</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ülesanne 3">
+      <option name="closed" value="true" />
+      <created>1740748216591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740748216591</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +179,7 @@
     <MESSAGE value="Lisaülesanne 2 + selle png" />
     <MESSAGE value="Lisaülesanne 2 lõpetatud" />
     <MESSAGE value="Lisaülesanne 1 parem versioon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lisaülesanne 1 parem versioon" />
+    <MESSAGE value="Ülesanne 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 3" />
   </component>
 </project>
