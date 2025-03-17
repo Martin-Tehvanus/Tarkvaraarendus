@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 3">
-      <change afterPath="$PROJECT_DIR$/Objektide animeerimine/Palli_porkamine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objektide animeerimine/Pildi_animeerimine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objektide animeerimine/img/ball.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatava ülesanne 4: Objektide animeerimine">
+      <change afterPath="$PROJECT_DIR$/yl4/bg_rally.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yl4/f1_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yl4/f1_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ylesanne4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,23 +49,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Kujundid_suvalises_kohas.executor": "Run",
+    "Python.Kujundite_animeerimine.executor": "Run",
     "Python.Mangu_joonistamine.executor": "Run",
-    "Python.Palli_porkamine.executor": "Debug",
+    "Python.Palli_porkamine.executor": "Run",
     "Python.Pildi_animeerimine.executor": "Run",
     "Python.ylesanne1.executor": "Run",
     "Python.ylesanne1_lisaylesanne.executor": "Run",
     "Python.ylesanne2.executor": "Run",
     "Python.ylesanne2_lisaylesanne.executor": "Run",
     "Python.ylesanne3.executor": "Run",
+    "Python.ylesanne4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/martin.tehvanus/PycharmProjects/Tarkvaraarendus/Objektide animeerimine/img",
+    "last_opened_file_path": "C:/Users/martin.tehvanus/PycharmProjects/Tarkvaraarendus/yl4",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl4" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\Objektide animeerimine\img" />
       <recent name="C:\Users\Martin\Downloads" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus" />
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740748216591</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Sissejuhatava ülesanne 4: Objektide animeerimine">
+      <option name="closed" value="true" />
+      <created>1741864272364</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1741864272364</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +194,7 @@
     <MESSAGE value="Lisaülesanne 2 lõpetatud" />
     <MESSAGE value="Lisaülesanne 1 parem versioon" />
     <MESSAGE value="Ülesanne 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 3" />
+    <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatava ülesanne 4: Objektide animeerimine" />
   </component>
 </project>
