@@ -35,10 +35,9 @@ while not gameover:
     # fps
     clock.tick(120)
     # mängu sulgemine ristist
-    events = pygame.event.get()
-    for i in pygame.event.get():
-        if i.type == pygame.QUIT:
-            sys.exit()
+    event = pygame.event.poll()
+    if event.type == pygame.QUIT:
+        gameover = True
 
     #loendist koordinaadid
     for i in range(len(coords)):
@@ -52,3 +51,4 @@ while not gameover:
     pygame.display.flip()
     screen.fill(lBlue)
 pygame.quit()
+sys.exit()

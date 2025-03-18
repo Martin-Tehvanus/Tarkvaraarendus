@@ -30,10 +30,9 @@ while not gameover:
     # fps
     clock.tick(60)
     # mängu sulgemine ristist
-    events = pygame.event.get()
-    for i in pygame.event.get():
-        if i.type == pygame.QUIT:
-            sys.exit()
+    event = pygame.event.poll()
+    if event.type == pygame.QUIT:
+        gameover = True
 
     # pildi lisamine ekraanile
     screen.blit(ball, (posX, posY))
@@ -53,3 +52,4 @@ while not gameover:
     screen.fill(lBlue)
 
 pygame.quit()
+sys.exit()
