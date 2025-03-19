@@ -1,7 +1,7 @@
 # impordid
 import pygame
-import sys
 import random
+import sys
 pygame.init()
 
 # muutujad
@@ -65,7 +65,7 @@ while True:
     screen.blit(sinine_auto2, alg2)
     screen.blit(sinine_auto3, alg3)
 
-    #skoori kuvmine pygame aknasse
+    # skoori kuvmine pygame aknasse
     font = pygame.font.Font(None, 35)
     text = font.render("Skoor: " + str(skoor), True, [255, 255, 255])
     screen.blit(text, (270, 0))
