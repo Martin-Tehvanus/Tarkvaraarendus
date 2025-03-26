@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 4 lõpetatud">
-      <change afterPath="$PROJECT_DIR$/praktyles.py" afterDir="false" />
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Prakt ülesanne">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktyles.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktyles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +194,14 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1742382498558</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Prakt ülesanne">
+      <option name="closed" value="true" />
+      <created>1742978349913</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1742978349913</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,6 +216,7 @@
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine" />
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus" />
     <MESSAGE value="Ülesanne 4 lõpetatud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 4 lõpetatud" />
+    <MESSAGE value="Prakt ülesanne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prakt ülesanne" />
   </component>
 </project>
