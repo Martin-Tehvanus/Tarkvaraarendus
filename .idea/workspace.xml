@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus">
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 4 lõpetatud">
+      <change afterPath="$PROJECT_DIR$/praktyles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ylesanne4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ylesanne4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Kujundid_suvalises_kohas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Kujundite_animeerimine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mangu_joonistamine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Palli_porkamine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pildi_animeerimine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne1_lisaylesanne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne2_lisaylesanne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ylesanne4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/martin.tehvanus/PycharmProjects/Tarkvaraarendus/yl4&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Kujundid_suvalises_kohas.executor": "Run",
+    "Python.Kujundite_animeerimine.executor": "Run",
+    "Python.Mangu_joonistamine.executor": "Run",
+    "Python.Palli_porkamine.executor": "Run",
+    "Python.Pildi_animeerimine.executor": "Run",
+    "Python.praktyles.executor": "Run",
+    "Python.ylesanne1.executor": "Run",
+    "Python.ylesanne1_lisaylesanne.executor": "Run",
+    "Python.ylesanne2.executor": "Run",
+    "Python.ylesanne2_lisaylesanne.executor": "Run",
+    "Python.ylesanne3.executor": "Run",
+    "Python.ylesanne4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/martin.tehvanus/PycharmProjects/Tarkvaraarendus/yl4",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl4" />
@@ -186,7 +187,14 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1742302909467</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="Ülesanne 4 lõpetatud">
+      <option name="closed" value="true" />
+      <created>1742382498558</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1742382498558</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,6 +208,7 @@
     <MESSAGE value="Ülesanne 3" />
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine" />
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus" />
+    <MESSAGE value="Ülesanne 4 lõpetatud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 4 lõpetatud" />
   </component>
 </project>
