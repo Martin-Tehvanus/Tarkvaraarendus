@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatav ülesanne 2">
-      <change afterPath="$PROJECT_DIR$/Kokkuporke_tuvastamine/img/ryytel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kokkuporke_tuvastamine/kokkuporke_tuvastamine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kokkuporke_tuvastamine/surface_ja_rect1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kokkuporke_tuvastamine/surface_ja_rect2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yl5/alus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yl5/pall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ylesanne5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/Funktsioonid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/Kujundid_suvalises_kohas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/Mangu_joonistamine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tsyklid_ja_funktsioonid/img/youwin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/Mõõk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/VIKK logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/bg_shop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/kook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yl2/seller.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +62,10 @@
     "Python.Mangu_joonistamine.executor": "Run",
     "Python.Palli_porkamine.executor": "Run",
     "Python.Pildi_animeerimine.executor": "Run",
+    "Python.kokkuporke_tuvastamine.executor": "Run",
     "Python.piltide_lisamine.executor": "Run",
     "Python.surface_ja_rect.executor": "Run",
+    "Python.surface_ja_rect1.executor": "Run",
     "Python.surface_ja_rect2.executor": "Run",
     "Python.teksti_kasutamine.executor": "Run",
     "Python.teksti_vormindamine.executor": "Run",
@@ -65,20 +76,21 @@
     "Python.ylesanne2_lisaylesanne.executor": "Run",
     "Python.ylesanne3.executor": "Run",
     "Python.ylesanne4.executor": "Run",
+    "Python.ylesanne5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Martin/PycharmProjects/Tarkvaraarendus/Kokkup6rke_tuvastamine/img",
+    "last_opened_file_path": "C:/Users/martin.tehvanus/PycharmProjects/Tarkvaraarendus/yl5",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl5" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Kokkup6rke_tuvastamine\img" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl4" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\Objektide animeerimine\img" />
       <recent name="C:\Users\Martin\Downloads" />
-      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Tekstide_ja_piltide_kasutamine\img" />
