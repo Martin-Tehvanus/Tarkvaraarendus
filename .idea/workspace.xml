@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 5 lõpetatud">
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Esitlusloend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Heli_objektiga_kokkupuutel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Taustaheli_lisamine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/Hit.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/Taustaheli.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd3.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd4.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd5.wav" afterDir="false" />
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatav ülesanne 6">
+      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/KEYDOWN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/KEYUP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/Mangupiiride_seadmine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +49,16 @@
   "keyToString": {
     "Python.Esitlusloend.executor": "Run",
     "Python.Heli_objektiga_kokkupuutel.executor": "Run",
+    "Python.KEYDOWN.executor": "Run",
+    "Python.KEYUP.executor": "Run",
     "Python.Kujundid_suvalises_kohas.executor": "Run",
     "Python.Kujundite_animeerimine.executor": "Run",
     "Python.Mangu_joonistamine.executor": "Run",
+    "Python.Mangupiiride_seadmine.executor": "Run",
     "Python.Palli_porkamine.executor": "Run",
     "Python.Pildi_animeerimine.executor": "Run",
     "Python.Taustaheli_lisamine.executor": "Run",
+    "Python.k.executor": "Run",
     "Python.piltide_lisamine.executor": "Run",
     "Python.surface_ja_rect.executor": "Run",
     "Python.surface_ja_rect2.executor": "Run",
@@ -223,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744889999997</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Sissejuhatav ülesanne 6">
+      <option name="closed" value="true" />
+      <created>1744899286168</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744899286168</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,6 +244,7 @@
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus" />
     <MESSAGE value="Sissejuhatav ülesanne 2" />
     <MESSAGE value="Ülesanne 5 lõpetatud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 5 lõpetatud" />
+    <MESSAGE value="Sissejuhatav ülesanne 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatav ülesanne 6" />
   </component>
 </project>
