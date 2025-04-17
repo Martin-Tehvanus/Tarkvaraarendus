@@ -22,19 +22,22 @@ palk = pygame.image.load("yl5/alus.png")
 pall = pygame.transform.scale(pall, [20, 20])
 palk = pygame.transform.scale(palk, [120, 20])
 
-#aluse muutjad
-palkX = 0
-palkY = 0
+# aluse muutjad
+palkX = screenX // 2 - 60
+palkY = screenY / 1.5
 palkAsukoht = (palkX, palkY)
+palkVasakule = False
+palkParemale = True
 
 # palli muutujad
-pallX = 0
-pallY = 0
+pallX = screenX // 2 - 10
+pallY = 50
+pallKiirusX = 3
+pallKiirusY = 3
 
-
-#palli ja aluse ekraanile panemine
-screen.blit(pall, [pallX, pallY])
-screen.blit(palk, [palkX, screenY/1.5])
+# punktisüsteem
+skoor = 0
+font = pygame.font.SysFont(None, 36)
 
 while True:
     clock.tick(60)
@@ -42,19 +45,49 @@ while True:
         if i.type == pygame.QUIT:
             sys.exit()
 
+    # aluse liikumine
+    if palkParemale == True:
+        palkX += 3
+        if palkX + 120 >= screenX:
+            palkParemale = False
+            palkVasakule = True
+    elif palkVasakule == True:
+        palkX -= 3
+        if palkX <= 0:
+            palkVasakule = False
+            palkParemale = True
 
- #   palkX += 1
-    print(palkX) # 522
-    pallX += 1
-    pallY += 1
+    # palli liikumine
+    pallX += pallKiirusX
+    pallY += pallKiirusY
 
-    if palkX == 0 or palkX < 0:
-        palkX += 1
-    elif palkX > 522:
-        palkX -= 1
+    # palli põrkumine seintest
+    if pallX <= 0 or pallX + 20 >= screenX:
+        pallKiirusX = -pallKiirusX
+    if pallY <= 0:
+        pallKiirusY = -pallKiirusY
 
+    # Rect objektide loomine kokkupõrke tuvastamiseks
+    pallRect = pygame.Rect(pallX, pallY, 20, 20)
+    palkRect = pygame.Rect(palkX, palkY, 120, 20)
+
+    # kokkupõrke tuvastamine
+    if pallRect.colliderect(palkRect) and pallKiirusY > 0:
+        pallKiirusY = -pallKiirusY
+        skoor += 1
+
+    # pall põrkas vastu alumist serva
+    if pallY + 20 >= screenY:
+        pallKiirusY = -pallKiirusY
+        skoor -= 1
+
+    # joonistame objektid ekraanile
+    screen.fill(taustvarv)
     screen.blit(pall, [pallX, pallY])
-    screen.blit(palk, [palkX, screenY/1.5])
+    screen.blit(palk, [palkX, palkY])
+
+    # skoori kuvamine
+    skoorTekst = font.render(f"Skoor: {skoor}", True, (0, 0, 0))
+    screen.blit(skoorTekst, (10, 10))
 
     pygame.display.flip()
-    screen.fill(taustvarv)
