@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatav ülesanne 2">
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Ülesanne 5 lõpetatud">
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Esitlusloend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Heli_objektiga_kokkupuutel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/Taustaheli_lisamine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/Hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/Taustaheli.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd4.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heli_Lisamine/music/snd5.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ylesanne5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ylesanne5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +54,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Esitlusloend.executor": "Run",
+    "Python.Heli_objektiga_kokkupuutel.executor": "Run",
     "Python.Kujundid_suvalises_kohas.executor": "Run",
     "Python.Kujundite_animeerimine.executor": "Run",
     "Python.Mangu_joonistamine.executor": "Run",
     "Python.Palli_porkamine.executor": "Run",
     "Python.Pildi_animeerimine.executor": "Run",
+    "Python.Taustaheli_lisamine.executor": "Run",
     "Python.piltide_lisamine.executor": "Run",
     "Python.surface_ja_rect.executor": "Run",
     "Python.surface_ja_rect2.executor": "Run",
@@ -66,17 +78,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Martin/PycharmProjects/Tarkvaraarendus/Kokkup6rke_tuvastamine/img",
+    "last_opened_file_path": "C:/Users/Martin/PycharmProjects/Tarkvaraarendus/Heli_Lisamine/music",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Heli_Lisamine\music" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Kokkup6rke_tuvastamine\img" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl4" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\Objektide animeerimine\img" />
       <recent name="C:\Users\Martin\Downloads" />
-      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Tekstide_ja_piltide_kasutamine\img" />
@@ -203,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743327135492</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ülesanne 5 lõpetatud">
+      <option name="closed" value="true" />
+      <created>1744889999997</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744889999997</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,6 +238,7 @@
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine" />
     <MESSAGE value="Sissejuhatava ülesanne 4: Objektide animeerimine, väike täiendus" />
     <MESSAGE value="Sissejuhatav ülesanne 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatav ülesanne 2" />
+    <MESSAGE value="Ülesanne 5 lõpetatud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 5 lõpetatud" />
   </component>
 </project>
