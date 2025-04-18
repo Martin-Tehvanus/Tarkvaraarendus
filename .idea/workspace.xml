@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatav ülesanne 6">
-      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/KEYDOWN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/KEYUP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Juhtimine_Klaviatuuri_Abil/Mangupiiride_seadmine.py" afterDir="false" />
+    <list default="true" id="4d38c11a-80a7-457a-98c1-992860a86cce" name="Changes" comment="Sissejuhatav ülesanne 7">
+      <change afterPath="$PROJECT_DIR$/yl6/taustamuusika.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ylesanne6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +71,21 @@
     "Python.ylesanne3.executor": "Run",
     "Python.ylesanne4.executor": "Run",
     "Python.ylesanne5.executor": "Run",
+    "Python.ylesanne6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Martin/PycharmProjects/Tarkvaraarendus/Heli_Lisamine/music",
+    "last_opened_file_path": "C:/Users/Martin/PycharmProjects/Tarkvaraarendus/yl6",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\yl6" />
+      <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Heli_Lisamine\music" />
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Kokkup6rke_tuvastamine\img" />
       <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\yl4" />
-      <recent name="C:\Users\martin.tehvanus\PycharmProjects\Tarkvaraarendus\Objektide animeerimine\img" />
-      <recent name="C:\Users\Martin\Downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Martin\PycharmProjects\Tarkvaraarendus\Tekstide_ja_piltide_kasutamine\img" />
@@ -228,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744899286168</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Sissejuhatav ülesanne 7">
+      <option name="closed" value="true" />
+      <created>1744900849390</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744900849390</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,6 +253,7 @@
     <MESSAGE value="Sissejuhatav ülesanne 2" />
     <MESSAGE value="Ülesanne 5 lõpetatud" />
     <MESSAGE value="Sissejuhatav ülesanne 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatav ülesanne 6" />
+    <MESSAGE value="Sissejuhatav ülesanne 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sissejuhatav ülesanne 7" />
   </component>
 </project>
